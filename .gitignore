@@ -3,3 +3,6 @@ data/
 
 # GameAddr
 game_addr.json
+
+# pycache
+*/__pycache__
